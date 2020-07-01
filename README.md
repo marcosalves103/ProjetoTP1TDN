@@ -9,3 +9,4 @@
 - Eliel Câmara
 - Flavio Fernandes Lisboa
 - Walber Lisboa Lucas 
+- Maria Eduarda Araújo dos Santos
