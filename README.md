@@ -6,7 +6,7 @@
 - Agata Ramos
 - Henrique Borges de Souza Silva
 - Gabriel Felipe Silva Macedo
-- Eliel Câmara
+- Eliel Santiago de Oliveira  Câmara Filho
 - Flavio Fernandes Lisboa
 - Walber Lisboa Lucas 
 - Maria Eduarda Araújo dos Santos
