@@ -1,2 +1,6 @@
 # ProjetoTP1TDN
-# Henrique Borges de Souza Silva
+# 01-07-2020
+- Marcos Renato Alves
+- Agata Ramos
+- Henrique Borges de Souza Silva
+
