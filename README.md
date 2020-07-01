@@ -3,4 +3,4 @@
 - Marcos Renato Alves
 - Agata Ramos
 - Henrique Borges de Souza Silva
-
+- Gabriel Felipe Silva Macedo
