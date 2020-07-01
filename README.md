@@ -6,3 +6,5 @@
 - Agata Ramos
 - Henrique Borges de Souza Silva
 - Gabriel Felipe Silva Macedo
+- Eliel Câmara
+
