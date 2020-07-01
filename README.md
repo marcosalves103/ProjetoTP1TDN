@@ -9,3 +9,4 @@
 - Eliel Câmara
 - Flavio Fernandes Lisboa
 - Walber Lisboa Lucas 
+- Henry Nuno Mercado Sena
